@@ -1,11 +1,11 @@
 {
-  "name": "coinfloor",
-  "version": "0.1.4",
+  "name": "cfegib",
+  "version": "0.0.1",
   "gypfile": true,
   "scripts": {
     "start": "node test.js"
   },
-  "description": "A wrapper for the Coinfloor Bitcoin Exchange websocket API",
+  "description": "A wrapper for the Coinfloor Gibraltar Bitcoin Exchange websocket API",
   "main": "Coinfloor.js",
   "keywords": [
     "coinfloor",
@@ -15,8 +15,8 @@
     "websocket"
   ],
   "author": {
-    "name": "Rory Greig",
-    "email": "rorygreig@gmail.com"
+    "name": "",
+    "email": ""
   },
   "dependencies": {
     "ws": "",
@@ -25,6 +25,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/rorygreig/coinfloor-js-library.git"
+    "url": "https://github.com/sejeng/coinfloor-js-library"
   }
 }
