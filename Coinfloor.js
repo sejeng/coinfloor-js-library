@@ -4,7 +4,7 @@
 	var btoa = require('btoa');
 	var atob = require('atob');
 
-	var url = "wss://api.coinfloor.co.uk/";
+	var url = "wss://api.cfe.gi/";
 
 	var ws = new SocketClient(url);
 
